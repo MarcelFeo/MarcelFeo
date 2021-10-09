@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)!!! 👋
 
-<div align="center">
+<div>
   <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="150">
 </div>
 
