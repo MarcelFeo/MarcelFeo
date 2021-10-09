@@ -1,6 +1,23 @@
 # Olá, seja bem-vindo(a)!!! 👋
 
-## <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="150"> Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
+<div align="center">
+  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="150">
+</div>
+
+##
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
+
+<br/>
+
+Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
 * Atualmente venho procurando a oportunidade de um primeiro estágio 😊
 
 ## Tecnologias:
@@ -10,6 +27,14 @@
 - Python(Django, Pygame)
 - SQL Server
 - Git & GitHub
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Marcel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marcel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ## Para entrar em contato comigo! 📧
 
