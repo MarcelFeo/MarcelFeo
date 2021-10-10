@@ -30,5 +30,4 @@
 
 [![lkdnimage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-f%C3%A9o-746155222/)
 [![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534996452091&text=Oi,%20Marcel)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/MarcelFeo)](https://github.com/MarcelFeo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelfeo29@gmail.com)
