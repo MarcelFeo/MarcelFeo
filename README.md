@@ -1,7 +1,9 @@
 # Olá, Bem-Vindo(a)!!! 👋
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="130" align="center"> 
-
+<div align="center">
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="130"> 
+</div>
+  
 Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
 * Atualmente venho procurando a oportunidade de um primeiro estágio 😊
 
