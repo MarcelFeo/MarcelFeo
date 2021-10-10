@@ -1,29 +1,22 @@
 # Olá, seja bem-vindo(a)!!! 👋
 
-<div>
-  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="150">
-</div>
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="130"> Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
+* Atualmente venho procurando a oportunidade de um primeiro estágio 😊
+
+## Tecnologias:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
-
-<br/>
-
-Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
-* Atualmente venho procurando a oportunidade de um primeiro estágio 😊
-
-## Tecnologias:
 
 - HTML5, CSS3 e JavaScript
 - React
 - Python(Django, Pygame)
 - SQL Server
 - Git & GitHub
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
