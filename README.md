@@ -5,7 +5,7 @@
 </div>
   
 Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
-* Atualmente venho procurando a oportunidade de um primeiro estágio 😊
+* Atualmente venho procurando a oportunidade de um primeiro emprego 😊
 
 ## Tecnologias:
 
