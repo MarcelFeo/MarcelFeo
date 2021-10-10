@@ -4,7 +4,7 @@
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="180"> 
 </div>
   
-Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias que mais se adéquam ao cargo de Front-End.
+Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias mais importantes para o cargo de Front-End.
 * Atualmente venho procurando a oportunidade de um primeiro emprego 😊
 
 ## Tecnologias:
