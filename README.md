@@ -7,7 +7,6 @@
 Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias mais importantes para o cargo de Front-End.
 * Atualmente venho procurando a oportunidade de um primeiro emprego 😊
 
-## Tecnologias:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,11 +15,7 @@ Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente
 
 <br/>
 
-- HTML5, CSS3 e JavaScript
-- React
-- Python(Django, Pygame)
-- SQL Server
-- Git & GitHub
+## Tecnologias:
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
