@@ -6,8 +6,6 @@
   
 Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias mais importantes para o cargo de Front-End.
 
-* Visite meu portfólio 😊 -> https://marcelfeo.github.io/portfolio/</br>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&langs_count=7&theme=dark"/>
