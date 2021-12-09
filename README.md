@@ -6,7 +6,7 @@
   
 Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias mais importantes para o cargo de Front-End.
 
-## Tecnologias:
+## Tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
