@@ -27,7 +27,7 @@ Meu nome é Marcel Féo, tenho 17 anos e atualmente sou autodidata. Recentemente
   <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-<div align="center" margin-top="25px">
+<div align="center" margin-top="250px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&langs_count=7&theme=dark"/>
 </div>
