@@ -20,6 +20,7 @@ Meu nome é Marcel Féo e atualmente sou autodidata. Recentemente, tenho me apai
   <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
+  <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
 </div>
 
 ## Para entrar em contato comigo! 📧
