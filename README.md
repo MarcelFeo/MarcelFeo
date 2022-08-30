@@ -1,10 +1,11 @@
 # Olá, Bem-Vindo(a)!!! 👋
 
-<div align="center">
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633817974448.png" height="180"> 
-</div>
-  
-Meu nome é Marcel Féo e atualmente sou autodidata. Recentemente, tenho me apaixonado cada vez mais pela área de Desenvolvimento Web então venho participando de muitos eventos e estudando as tecnologias mais importantes para o cargo de Front-End.
+<p> 
+<img src="https://user-images.githubusercontent.com/69916500/187531709-cef99901-3da9-474b-ba6f-2d087f34357f.png" height="180"> 
+Meu nome é Marcel Féo, tenho 18 anos e estou cursando Ciências da Computação na UFU em Uberlândia. Sempre estou em busca de novos desafios na área de desenvolvimento Web então nos últimos anos eu venho participando de muitos eventos, palestras e estudando as principais tecnologias para o cargo de Software Engineer.</p>
+<p>
+ Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
+</p>
 
 ## Tecnologias
     
