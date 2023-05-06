@@ -1,7 +1,7 @@
 # Olá, Bem-Vindo(a)!!! 👋
 
 <p> 
-Meu nome é Marcel Féo, tenho 18 anos e estou cursando Ciências da Computação na UFU em Uberlândia. Sempre estou em busca de novos desafios na área de desenvolvimento Web então nos últimos anos eu venho participando de muitos eventos, palestras e estudando as principais tecnologias para o cargo de Software Engineer.</p>
+Meu nome é Marcel Féo, tenho 19 anos e estou cursando Ciências da Computação na UFU em Uberlândia. Sempre estou em busca de novos desafios na área de desenvolvimento Web então nos últimos anos eu venho participando de muitos eventos, palestras e estudando as principais tecnologias para o cargo de Software Engineer.</p>
 <p>
  Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
 </p>
@@ -9,6 +9,8 @@ Meu nome é Marcel Féo, tenho 18 anos e estou cursando Ciências da Computaçã
 ## Tecnologias
     
 <div style="display: inline_block"><br>
+  <img align="center" alt="Marcel-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Marcel-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Marcel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
