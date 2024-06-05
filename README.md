@@ -2,9 +2,9 @@
 
 <p> 
 Meu nome é Marcel Féo, tenho 20 anos e estou cursando Ciências da Computação na UFU em Uberlândia. Sempre estou em busca de novos desafios na área de desenvolvimento Web então nos últimos anos eu venho participando de muitos eventos, palestras e estudando as principais tecnologias para o cargo de Software Engineer.</p>
-<p>
+<!-- <p>
  Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
-</p>
+</p> -->
 
 ## Tecnologias
     
