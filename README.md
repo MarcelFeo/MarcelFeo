@@ -1,7 +1,7 @@
 # Olá, Bem-Vindo(a)!!! 👋
 
 <p>
- Sou estudante de Ciência da Computação na UFU, atualmente com foco em análise de dados e ciência de dados. Aqui você encontrará meus projetos pessoais que envolvem desde processamento e visualização de dados até manipulação de banco de dados e construção de APIs. Atualmente tenho trabalhado principalmente com Python, R e SQL, explorando ferramentas novas ferramentas importantes para minha área. Estou sempre aprendendo e compartilhando o que desenvolvo, com o objetivo de contribuir para a comunidade e aplicar minhas habilidades a desafios reais.
+ Sou estudante de Ciência da Computação na UFU, atualmente com foco em análise de dados e ciência de dados. Aqui você encontrará meus projetos pessoais que envolvem desde processamento e visualização de dados até manipulação de banco de dados e construção de APIs. Atualmente tenho trabalhado principalmente com Python, R e SQL, explorando novas ferramentas importantes para minha área. Estou sempre aprendendo e compartilhando o que desenvolvo, com o objetivo de contribuir para a comunidade e aplicar minhas habilidades a desafios reais.
 </p>
 <!-- <p>
  Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
