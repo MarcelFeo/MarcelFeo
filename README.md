@@ -7,7 +7,7 @@
  Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
 </p> -->
 
-## Tecnologias
+## 🛠️ Tecnologias
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,8 +22,12 @@
   <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## Para entrar em contato comigo! 📧
+## 📧 Para entrar em contato comigo!
 
 [![lkdnimage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-f%C3%A9o-746155222/)
 [![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534996452091&text=Oi,%20Marcel)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelfeo29@gmail.com)
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true)
