@@ -45,7 +45,7 @@
 [![wppimage](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534996452091&text=Oi,%20Marcel)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelfeo29@gmail.com)
 
-## ⭐ GitHub Stats
+<!--## ⭐ GitHub Stats-->
 <!--
 <table>
   <tr>
@@ -74,4 +74,4 @@
   </tr>
 </table>
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true)-->
