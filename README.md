@@ -1,11 +1,10 @@
 # Olá, Bem-Vindo(a)!!! 👋
 
-<p>
- Sou estudante de Ciência da Computação na UFU, com interesse em diversas áreas da tecnologia. Neste espaço, compartilho meus projetos pessoais que envolvem desde desenvolvimento de software e construção de APIs até análise, processamento e visualização de dados. Trabalho principalmente com linguagens como Python, Java e SQL, sempre explorando novas ferramentas e tecnologias. Estou em constante aprendizado, buscando aplicar minhas habilidades em desafios práticos e contribuir para a comunidade de desenvolvedores.
-</p>
-<!-- <p>
- Atualmente, um dos meus principais projetos é uma plataforma chamada SAT, uma aplicação para ajudar a conexão entre alunos e professores de todo o Brasil.
-</p> -->
+Sou desenvolvedor Backend com foco em criar soluções escaláveis, seguras e eficientes. Tenho experiência no desenvolvimento de APIs, sistemas corporativos e arquiteturas de software, sempre buscando boas práticas, performance e manutenibilidade de código.
+
+Atualmente curso Ciência da Computação na Universidade Federal de Uberlândia (UFU) e atuo em projetos acadêmicos e profissionais envolvendo engenharia de software, modelagem, bancos de dados e arquitetura de sistemas. Tenho interesse em backend, microsserviços e bancos de dados.
+
+Sou uma pessoa proativa, com forte capacidade analítica e gosto de aprender novas tecnologias para resolver problemas reais. Sempre em busca de oportunidades para contribuir com times de tecnologia, entregar valor ao negócio e evoluir como engenheiro de software.
 
 ## 🛠️ Tecnologias
 
