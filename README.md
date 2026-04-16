@@ -1,87 +1,69 @@
-# Olá, Bem-Vindo(a)!
+<h1 align="center">Marcel Féo</h1>
 
-Sou Engenheiro de Software focado no ecossistema Java (Spring Boot) e Python (Flask/FastAPI) , com sólida experiência no desenvolvimento de sistemas escaláveis, migração de grandes bases de dados e integração de inteligência artificial em fluxos de trabalho de engenharia.
+<p align="center">
+  Backend Software Engineer &nbsp;·&nbsp; Computer Science @ UFU &nbsp;·&nbsp; Uberlândia, Brasil
+</p>
 
-Atualmente, na RTech Solutions Group, contribuo para a modernização da infraestrutura da Câmara Municipal de Uberlândia , atuando na migração e otimização de bancos de dados PostgreSQL para Oracle (PL/SQL) e em um motor de migração utilizando Java(Spring Boot). Minha atuação envolve desde o ajuste de queries complexas até o desenvolvimento de funcionalidades fullstack com React e Flask , focando sempre em performance e na redução de incidentes em produção.
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelfeo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:marcelfeo29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5534996452091">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-Anteriormente, na Pharma e-Connection, liderei a refatoração de APIs em Python que resultou em uma redução de 60% no tempo de resposta , além de desenvolver dashboards analíticos para a Unimed-Rio utilizando Pandas, NumPy e Power BI. Tenho forte interesse em arquitetura de sistemas distribuídos e na aplicação prática de tecnologia para resolver problemas reais de negócio.
+---
 
-Tenho especial interesse em:
+Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de software. Experiência com sistemas corporativos, migração de dados e integrações com serviços externos. Apaixonado por boas práticas, código limpo e soluções que escalam.
 
-- Arquitetura Backend e Microsserviços 
+---
 
-- Ecossistema Java (Spring Boot) e Python 
+### Stack
 
-- Modelagem e Otimização de Bancos de Dados 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-- Desenvolvimento de APIs REST e Integrações de IA 
+---
 
-- DevOps e Ferramentas de Desenvolvimento Modernas 
+### Projetos em destaque
 
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Capsule APP**](https://github.com/MarcelFeo/capsule_app) | Sistema de gestão hospitalar com autenticação JWT, RBAC e arquitetura limpa | FastAPI · PostgreSQL · SQLAlchemy · Docker |
+| [**PriceTracker**](https://github.com/MarcelFeo/priceflow) | Plataforma de monitoramento de preços com notificações assíncronas e integração Mercado Livre | Spring Boot · RabbitMQ · Java |
+| [**GoTiny**](https://github.com/MarcelFeo/GoTiny) | Encurtador de URLs simples e eficiente | Java · Spring Boot |
+| [**ApplyHub**](https://github.com/MarcelFeo/applyhub) | Kanban tracker de candidaturas com dashboard e persistência local | HTML · CSS · JavaScript |
+| [**cairo_draw**](https://github.com/MarcelFeo/cairo_draw) | Mini aplicativo de desenho (estilo Paint) em C com gráficos nativos | C · Cairo |
+| [**lsh**](https://github.com/MarcelFeo/lsh) | Shell Unix implementado do zero para estudo de sistemas operacionais | C |
+| [**SpeechifyAPI**](https://github.com/MarcelFeo/SpeechifyAPI) | API de transcrição de áudio | Java · Spring Boot |
 
-Habilidades Técnicas: Java, Python, Spring Boot, Flask, FastAPI, React, JavaScript, HTML, CSS, PostgreSQL, Oracle, AWS, Docker, RabbitMQ
+---
 
-## Tecnologias
+### GitHub Stats
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Marcel-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Marcel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Marcel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Marcel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Marcel-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Marcel-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 
-<!--
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Marcel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Marcel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Marcel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
--->
+---
 
-## 📧 Para entrar em contato comigo!
-
-[![lkdnimage](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-f%C3%A9o-746155222/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelfeo29@gmail.com)
-
-<!--## ⭐ GitHub Stats-->
-<!--
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MarcelFeo&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
--->
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true)-->
+<p align="center">
+  <sub>Computer Science · UFU · Uberlândia, MG · Brasil</sub>
+</p>
