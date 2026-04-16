@@ -11,9 +11,6 @@
   <a href="mailto:marcelfeo29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5534996452091">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
