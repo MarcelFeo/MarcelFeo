@@ -52,15 +52,6 @@ Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de softwar
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcelFeo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelFeo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
----
-
 <p align="center">
   <sub>Computer Science · UFU · Uberlândia, MG · Brasil</sub>
 </p>
