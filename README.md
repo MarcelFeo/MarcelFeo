@@ -42,7 +42,7 @@ Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de softwar
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Capsule APP**](https://github.com/MarcelFeo/capsule_app) | Sistema de gestão hospitalar com autenticação JWT, RBAC e arquitetura limpa | FastAPI · PostgreSQL · SQLAlchemy · Docker |
+| [**Capsule**](https://github.com/MarcelFeo/capsule_app) | Sistema de gestão hospitalar com autenticação JWT, RBAC e arquitetura limpa | FastAPI · PostgreSQL · SQLAlchemy · Docker |
 | [**PriceTracker**](https://github.com/MarcelFeo/priceflow) | Plataforma de monitoramento de preços com notificações assíncronas e integração Mercado Livre | Spring Boot · RabbitMQ · Java |
 | [**GoTiny**](https://github.com/MarcelFeo/GoTiny) | Encurtador de URLs simples e eficiente | Java · Spring Boot |
 | [**ApplyHub**](https://github.com/MarcelFeo/applyhub) | Kanban tracker de candidaturas com dashboard e persistência local | HTML · CSS · JavaScript |
