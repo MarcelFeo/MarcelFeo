@@ -45,10 +45,10 @@ Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de softwar
 | [**Capsule**](https://github.com/MarcelFeo/capsule_app) | Sistema de gestão hospitalar com autenticação JWT, RBAC e arquitetura limpa | FastAPI · PostgreSQL · SQLAlchemy · Docker |
 | [**PriceTracker**](https://github.com/MarcelFeo/priceflow) | Plataforma de monitoramento de preços com notificações assíncronas e integração Mercado Livre | Spring Boot · RabbitMQ · Java |
 | [**GoTiny**](https://github.com/MarcelFeo/GoTiny) | Encurtador de URLs simples e eficiente | Java · Spring Boot |
+| [**Pepper**](https://github.com/MarcelFeo/pepper_lang) | O Pepper Compiler é um compilador completo para a linguagem de programação Pepper | Python |
 | [**ApplyHub**](https://github.com/MarcelFeo/applyhub) | Kanban tracker de candidaturas com dashboard e persistência local | HTML · CSS · JavaScript |
-| [**cairo_draw**](https://github.com/MarcelFeo/cairo_draw) | Mini aplicativo de desenho (estilo Paint) em C com gráficos nativos | C · Cairo |
-| [**lsh**](https://github.com/MarcelFeo/lsh) | Shell Unix implementado do zero para estudo de sistemas operacionais | C |
 | [**SpeechifyAPI**](https://github.com/MarcelFeo/SpeechifyAPI) | API de transcrição de áudio | Java · Spring Boot |
+| [**lsh**](https://github.com/MarcelFeo/lsh) | Shell Unix implementado do zero para estudo de sistemas operacionais | C |
 
 ---
 
