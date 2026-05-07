@@ -48,8 +48,6 @@ Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de softwar
 | [**Pepper**](https://github.com/MarcelFeo/pepper_lang) | O Pepper Compiler é um compilador completo para a linguagem de programação Pepper | Python |
 | [**ApplyHub**](https://github.com/MarcelFeo/applyhub) | Kanban tracker de candidaturas com dashboard e persistência local | HTML · CSS · JavaScript |
 | [**SpeechifyAPI**](https://github.com/MarcelFeo/SpeechifyAPI) | API de transcrição de áudio | Java · Spring Boot |
-| [**lsh**](https://github.com/MarcelFeo/lsh) | Shell Unix implementado do zero para estudo de sistemas operacionais | C |
-
 ---
 
 <p align="center">
