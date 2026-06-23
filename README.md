@@ -15,7 +15,7 @@
 
 ---
 
-Desenvolvedor backend com foco em APIs, microsserviços e arquitetura de software. Experiência com sistemas corporativos, migração de dados e integrações com serviços externos. Apaixonado por boas práticas, código limpo e soluções que escalam.
+Sou Engenheiro de Software focado no ecossistema Java (Spring Boot) e Python (Flask/Django) , com sólida experiência no desenvolvimento de sistemas escaláveis, migração de grandes bases de dados e integração de inteligência artificial em fluxos de trabalho de engenharia.
 
 ---
 
