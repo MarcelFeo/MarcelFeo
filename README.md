@@ -1,7 +1,7 @@
 <h1 align="center">Marcel Féo</h1>
 
 <p align="center">
-  Backend Software Engineer &nbsp;·&nbsp; Computer Science @ UFU &nbsp;·&nbsp; Uberlândia, Brasil
+   Software Engineer &nbsp;·&nbsp; Computer Science @ UFU &nbsp;·&nbsp; Uberlândia, Brasil
 </p>
 
 <p align="center">
